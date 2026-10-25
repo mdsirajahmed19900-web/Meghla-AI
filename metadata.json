@@ -1,0 +1,6 @@
+{
+  "name": "Megla AI",
+  "description": "Witty, sassy, voice-to-voice personal AI assistant for Siraj with communication app controls, YouTube streaming, and multilingual support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
